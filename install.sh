@@ -4,6 +4,10 @@ apt upgrade
 
 apt install git -y
 
+git clone https://github.com/websploit/websploit.git
+
+git clone https://github.com/xHak9x/fbi.git
+
 pkg install wget
 
 pip install python2-pip
